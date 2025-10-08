@@ -8,11 +8,15 @@ Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in
 <img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949859-5e432b4b-f18d-48b5-a9e9-8d7dba255955.png">
 
 # RESULTS
-Grammar: F[-F]F[-F]F\
+Grammar: F=FF[-FF][-F]F[-FF]FF-
 n = 1\
-<img width="173" height="172" alt="image" src="https://github.com/user-attachments/assets/7442dcc7-1d3d-44b5-906c-0f477a39b55f" />
+<img width="262" height="407" alt="image" src="https://github.com/user-attachments/assets/4acb43ec-6573-4219-9bc2-a92387336d51" />
 
+n = 2\
+<img width="313" height="371" alt="image" src="https://github.com/user-attachments/assets/1b0956c6-a088-4f24-9c1e-4db4dfe385a1" />
 
+n = 3\
+<img width="314" height="376" alt="image" src="https://github.com/user-attachments/assets/1ac7c2a3-ca05-4409-a2e2-a88024993928" />
 
 ## 2. Square grammar puzzle
 How about this one? Take a screenshot of your rules.\
