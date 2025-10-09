@@ -26,8 +26,8 @@ How about this one? Take a screenshot of your rules.\
 <img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949910-928e5993-ce26-4681-80f8-ffeb54be4dcf.png">
 
 # RESULTS
-Grammar: F=F+F-F-F+F
-Premise: +F
+Grammar: F=F+F-F-F+F\
+Premise: +F\
 
 n = 1\
 <img width="222" height="211" alt="image" src="https://github.com/user-attachments/assets/b33e4709-6fc8-42f1-9fd5-48a82a8050fc" />
@@ -39,9 +39,14 @@ n = 3\
 <img width="305" height="218" alt="image" src="https://github.com/user-attachments/assets/e352e6ed-1aa4-4a8b-bf37-6b35f0345d1a" />
 
 
-
 ## 3. Custom plant
 Choose a plant in the world. Working off a reference, design a grammar that mimics the structure of that plant. Unlike our simple puzzles, please use multiple rules for greater complexity. Think carefully about the structure of your grammar! EXPLAIN the structure of your plant in the README. What are the components? What do each of the rules do? Be sure to also include images of a few iterations of your output plant. 
+
+# RESULTS
+Grammar:
+Premise
+<img width="373" height="461" alt="image" src="https://github.com/user-attachments/assets/fe7806af-bb42-4d82-a710-0af23f8e87e2" />
+
 
 ## Submission
 - Create a pull request against this repository
