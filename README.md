@@ -43,8 +43,19 @@ n = 3\
 Choose a plant in the world. Working off a reference, design a grammar that mimics the structure of that plant. Unlike our simple puzzles, please use multiple rules for greater complexity. Think carefully about the structure of your grammar! EXPLAIN the structure of your plant in the README. What are the components? What do each of the rules do? Be sure to also include images of a few iterations of your output plant. 
 
 # RESULTS
-Grammar:
-Premise
+Crawling vine\
+<img width="422" height="94" alt="image" src="https://github.com/user-attachments/assets/91ed97f1-29c4-4267-a96a-9559a30760df" />
+
+n = 4\
+<img width="368" height="457" alt="image" src="https://github.com/user-attachments/assets/f2dc73f4-83a7-47fc-b172-6e85927c88ec" />
+
+n = 5\
+<img width="378" height="446" alt="image" src="https://github.com/user-attachments/assets/9674a2e2-e573-482c-b07e-6ae87cbd3830" />
+
+n = 6\
+<img width="670" height="491" alt="image" src="https://github.com/user-attachments/assets/2527fbd1-3b8a-456a-8d81-cfd3d85791d4" />
+
+I made this a bit ago, looks like maiden grass, but the program crashed before I could save it :(\
 <img width="373" height="461" alt="image" src="https://github.com/user-attachments/assets/fe7806af-bb42-4d82-a710-0af23f8e87e2" />
 
 
